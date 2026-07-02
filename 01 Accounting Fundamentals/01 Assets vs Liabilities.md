@@ -1,28 +1,7 @@
 # 01. Assets vs Liabilities
 
-## Learning Objectives
-
-After completing this topic, you should be able to:
-
-- Define assets and liabilities.
-- Differentiate between current and non-current assets and liabilities.
-- Explain the accounting equation.
-- Identify assets and liabilities in real-world situations.
-- Understand why these concepts are fundamental to financial statements.
-
 ---
 
-# Prerequisites
-
-None.
-
-This is the first concept every finance student should learn.
-
----
-
-# Why Should You Learn This?
-
-Imagine someone hands you the Balance Sheet of Apple, Amazon, or GE Vernova.
 
 The first questions you should naturally ask are:
 
@@ -30,9 +9,6 @@ The first questions you should naturally ask are:
 - What does it owe?
 - How much of the company actually belongs to the shareholders?
 
-Assets and liabilities answer the first two questions.
-
-Without understanding these concepts, reading financial statements becomes almost impossible.
 
 ---
 
@@ -42,7 +18,7 @@ Assets and liabilities are the building blocks of accounting.
 
 Every financial transaction affects at least one asset, one liability, or the owner's equity.
 
-They together describe the financial position of a business at a specific point in time.
+**They together describe the financial position of a business at a specific point in time.**
 
 ---
 
@@ -54,9 +30,6 @@ Simply put,
 
 > An asset helps a business create value either by generating revenue, reducing costs, or supporting business operations.
 
-Notice that the definition says **owns or controls**.
-
-This is important.
 
 A company may not legally own something but can still control it and receive its benefits. In many cases (such as leased assets), accounting standards allow these resources to be recognized as assets.
 
