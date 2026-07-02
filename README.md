@@ -16,8 +16,9 @@ The goal is to understand finance conceptually through clear explanations, real-
 ## Roadmap
 
 ### 01 Accounting Fundamentals
-- [ ] Assets vs Liabilities
-- [ ] Equity
+
+- [x] Assets vs Liabilities
+- [x] Equity
 - [ ] Revenue
 - [ ] Expenses
 - [ ] Depreciation
