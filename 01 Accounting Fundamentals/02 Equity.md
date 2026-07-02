@@ -1,24 +1,5 @@
 # 02. Equity
 
-## Learning Objectives
-
-After completing this topic, you should be able to:
-
-- Define equity.
-- Explain why equity is called the owner's claim on a business.
-- Understand how equity changes over time.
-- Distinguish between assets, liabilities, and equity.
-- Identify the major components of shareholders' equity.
-
----
-
-# Prerequisites
-
-Before studying this topic, you should understand:
-
-- Assets
-- Liabilities
-
 ---
 
 # Why Should You Learn This?
@@ -29,7 +10,7 @@ After learning about assets and liabilities, a natural question arises:
 
 The answer is **Equity**.
 
-Equity represents the owners' financial interest in the business.
+**Equity represents the owners' financial interest in the business.**
 
 It is one of the three fundamental components of the accounting equation.
 
@@ -248,16 +229,3 @@ A company may have high equity but poor profitability or weak cash flow.
 - Equity is also called **Net Assets**.
 - Book Value of Equity is often different from Market Value.
 - Public companies report shareholders' equity in every annual report.
-
----
-
-# Concept Connections
-
-Previous:
-- Assets
-- Liabilities
-
-Next:
-- The Accounting Equation
-- Balance Sheet
-- Retained Earnings
