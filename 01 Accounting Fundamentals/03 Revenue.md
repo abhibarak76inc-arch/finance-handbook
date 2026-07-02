@@ -1,14 +1,5 @@
 # 03. Revenue
 
-## Learning Objectives
-
-After completing this topic, you should be able to:
-
-- Define revenue.
-- Differentiate revenue from profit and cash.
-- Understand why revenue is important.
-- Identify different types of revenue.
-
 ---
 
 # Definition
@@ -145,13 +136,3 @@ Profitability and cash flow are equally important.
 - Revenue appears at the top of the Income Statement.
 - Revenue is different from profit and cash.
 - Revenue growth is important but should be analyzed alongside profitability.
-
----
-
-# Related Concepts
-
-- Expenses
-- Profit
-- Income Statement
-- Accounts Receivable
-- Cash Flow
